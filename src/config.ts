@@ -7,6 +7,7 @@ export const SITE = {
   pic: 'https://cdn.fliggy.com/upic/2XFNGI.png',
   homePage: 'https://weekly.pgyu.org',
   blogPage: 'https://blog.pgyu.org/',
+  memosPage: 'https://memos.pgyu.org/',
   twitterId: 'pgyutt',
   githubId: 'yayaniub',
   repo: 'yayaniub/weekly'
