@@ -8,6 +8,7 @@ export const SITE = {
   homePage: 'https://weekly.pgyu.org',
   blogPage: 'https://blog.pgyu.org/',
   memosPage: 'https://memos.pgyu.org/',
+  dhPage: 'https://dh.hknb.tk/',
   twitterId: 'pgyutt',
   githubId: 'yayaniub',
   repo: 'yayaniub/weekly'
