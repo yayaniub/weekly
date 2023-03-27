@@ -6,7 +6,7 @@ export const SITE = {
   icon: 'https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png',
   pic: 'https://cdn.fliggy.com/upic/2XFNGI.png',
   homePage: 'https://weekly.pgyu.org',
-  blogPage: 'https://blog.pgyu.org/',
+  blogPage: 'https://blog.pgyu.xyz/',
   memosPage: 'https://memos.pgyu.org/',
   dhPage: 'https://dh.hknb.tk/',
   twitterId: 'pgyutt',
