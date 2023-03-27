@@ -25,5 +25,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: yayaniub-weekly # TODO: replace with Deno Deploy project name
-          entrypoint: server/entry.mjs
+          entrypoint: ./main.ts
           root: dist
